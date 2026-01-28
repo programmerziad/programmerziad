@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c3e50&height=200&section=header&text=Ziad%20Mohamed&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c3e50&height=200&section=header&text=Ziad%20Mohamed&fontSize=70&animation=fadeIn&fontColor=ffffff"" width="100%" />
 
   ## 👨‍💻 Front-End Developer | IT Student
   
@@ -22,15 +22,6 @@ Hi! I'm **Ziad**, an IT student and a **Front-End Developer** who loves building
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,figma,git,github,vscode" />
 </div>
-
----
-
-### 🚀 Featured Projects
-
-| Project Name | Preview | Description |
-| :--- | :--- | :--- |
-| **🏠 NestIn** | [View Code](https://github.com/programmerziad) | Smart housing platform built with HTML, CSS, and JS. |
-| **🛒 Grocery Dashboard** | [View Code](https://github.com/programmerziad) | A clean management dashboard for tracking products. |
 
 ---
 
