@@ -3,7 +3,7 @@
 
   ## 👨‍💻 Front-End Developer | IT Student
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Building+Responsive+Websites;Mastering+JavaScript+Logic;UI/UX+to+Code+Expert;Focusing+on+Clean+Code)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Front-End+Developer;Building+Responsive+Websites;Mastering+JavaScript+Logic;UI/UX+to+Code+Expert;Focusing+on+Clean+Code)](https://git.io/typing-svg)
 </div>
 
 ---
