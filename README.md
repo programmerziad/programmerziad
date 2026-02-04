@@ -24,13 +24,21 @@ Hi! I'm **Ziad**, an IT student and a **Front-End Developer** who loves building
 </div>
 
 ---
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmerziad&theme=transparent&hide_border=true&show_icons=true&text_color=ffffff&title_color=38B2AC" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerziad&theme=transparent&hide_border=true&layout=compact&text_color=ffffff&title_color=38B2AC" width="40%" />
-</div>
----
 
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=programmerziad&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=programmerziad&layout=compact&hide_border=true" />
+</p>
+
+---
+### 📊 GitHub Stats
+
+![Followers](https://img.shields.io/github/followers/programmerziad?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/programmerziad?style=for-the-badge)
+![Repos](https://img.shields.io/github/repo-size/programmerziad/NestIn?style=for-the-badge)
+---
 <div align="center">
   <h3>🤝 Let's Connect!</h3>
   
