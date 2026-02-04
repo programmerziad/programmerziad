@@ -24,13 +24,12 @@ Hi! I'm **Ziad**, an IT student and a **Front-End Developer** who loves building
 </div>
 
 ---
-
 ### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmerziad&theme=transparent&hide_border=true&show_icons=true&text_color=ffffff&title_color=38B2AC" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerziad&theme=transparent&hide_border=true&layout=compact&text_color=ffffff&title_color=38B2AC" width="40%" />
-</div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=programmerziad&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerziad&layout=compact&theme=transparent&hide_border=true" width="40%" />
+</p>
 ---
 
 <div align="center">
